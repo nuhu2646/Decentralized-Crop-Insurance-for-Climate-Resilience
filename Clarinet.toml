@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.climate-data-oracle]
+path = 'contracts/climate-data-oracle.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.farm-registration]
 path = 'contracts/farm-registration.clar'
 clarity_version = 2
