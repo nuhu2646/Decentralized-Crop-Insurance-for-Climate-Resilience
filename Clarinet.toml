@@ -15,6 +15,11 @@ path = 'contracts/farm-registration.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.parametric-payout]
+path = 'contracts/parametric-payout.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.risk-assessment]
 path = 'contracts/risk-assessment.clar'
 clarity_version = 2

@@ -13,3 +13,5 @@ N
 contracts/risk-assessment.clar,9/b/9bd619b8006324502bc6596111bafe5f91076bc2
 M
 tests/risk-assessment.test.ts,e/9/e9e6a96a70c2cbf19d963c4403d69d9c6dc859d9
+P
+ contracts/parametric-payout.clar,4/8/4888ada974d3c235ea2c8ba8a0881b2b9225c3fa
