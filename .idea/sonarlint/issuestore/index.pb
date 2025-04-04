@@ -9,3 +9,7 @@ R
 "contracts/climate-data-oracle.clar,8/7/87933129702fa616395ee005d1d76a9253a256f1
 Q
 !tests/climate-data-oracle.test.ts,5/5/5532da53a2236be658908eac9a29f9c690eeb441
+N
+contracts/risk-assessment.clar,9/b/9bd619b8006324502bc6596111bafe5f91076bc2
+M
+tests/risk-assessment.test.ts,e/9/e9e6a96a70c2cbf19d963c4403d69d9c6dc859d9
